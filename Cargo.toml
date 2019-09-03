@@ -21,7 +21,7 @@ version = "0.3.0"
 
 [dependencies.zk-paillier]
 git = "https://github.com/KZen-networks/zk-paillier"
-version = "0.1.0"
+version = "0.2.0"
 
 [dependencies.multi-party-schnorr]
 git = "https://github.com/KZen-networks/multi-party-schnorr"
