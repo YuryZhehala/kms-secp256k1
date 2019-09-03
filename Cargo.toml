@@ -30,7 +30,7 @@ tag = "v0.1.0"
 [dependencies.curv]
 git = "https://github.com/KZen-networks/curv"
 features =  ["ec_secp256k1"]
-version = "0.1.0"
+version = "0.2.0"
 
 [dependencies.multi-party-ecdsa]
 git = "https://github.com/KZen-networks/multi-party-ecdsa"
